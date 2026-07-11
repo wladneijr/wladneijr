@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Wladnei Jr
 
-**`Futuro Desenvolvedora FullStack`**
+**`Futuro Desenvolvedor FullStack`**
 
 Me chamo Wladnei da Silva Oliveira Júnior, tenho 20 anos e sou natural de Pinheiral. Concluí o ensino médio no IFRJ, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação. Sou um apaixonado por hardware e software.
 
