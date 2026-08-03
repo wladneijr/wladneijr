@@ -35,7 +35,7 @@
 - 📜 Técnico em Informática formado pelo **Instituto Federal do Rio de Janeiro (IFRJ)**.
 - 💻 Foco atual em aprofundar conhecimentos em lógica, desenvolvimento **Full Stack** e engenharia de software.
 - 🛠️ Entusiasta de hardware e otimização de sistemas.
-- 📍 Pinheiral, Rio de Janeiro - Brasil.
+-  📍 Pinheiral, Rio de Janeiro - Brasil.
 
 ## Tecnologias que utilizo
 
@@ -58,8 +58,14 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wladneijr&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladneijr&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <!-- Estatísticas Gerais -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wladneijr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  
+  <br />
+
+  <!-- Linguagens Mais Usadas -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wladneijr&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
