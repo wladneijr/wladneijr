@@ -1,88 +1,81 @@
-# 👩🏻‍💻 Wladnei Jr
+<h1 align="center">Olá, eu sou Wladnei Jr</h1>
 
-**`Futuro Desenvolvedor FullStack`**
+<p align="center">
+  <img src="./assets/dark-fantasy-dragon-animated.gif" alt="Banner animado" width="100%" />
+</p>
 
-Me chamo Wladnei da Silva Oliveira Júnior, tenho 20 anos e sou natural de Pinheiral. Concluí o ensino médio no IFRJ, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação. Sou um apaixonado por hardware e software.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=920&lines=Futuro+Desenvolvedor+Full+Stack;JavaScript+%7C+Java+%7C+C;Sistemas+de+Informa%C3%A7%C3%A3o+na+UniFOA;Apaixonado+por+Software+e+Hardware"
+      alt="Animação de texto digitando"
+    />
+  </a>
+</p>
 
-<p align="left">
-    <a href="https://github.com/wladneijr?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/wladneijr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  Estudante de Sistemas de Informação na UniFOA e Técnico em Informática pelo IFRJ.
+  Apaixonado por desenvolvimento de software, arquitetura web e hardware.
+</p>
+
+<p align="center">
+  <a href="https://github.com/wladneijr">
+    <img src="https://img.shields.io/badge/GitHub-wladneijr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/wladneijr?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/wladneijr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores" />
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+- 🎓 Cursando **Sistemas de Informação** no Centro Universitário de Volta Redonda (UniFOA).
+- 📜 Técnico em Informática formado pelo **Instituto Federal do Rio de Janeiro (IFRJ)**.
+- 💻 Foco atual em aprofundar conhecimentos em lógica, desenvolvimento **Full Stack** e engenharia de software.
+- 🛠️ Entusiasta de hardware e otimização de sistemas.
+- 📍 Pinheiral, Rio de Janeiro - Brasil.
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+## Tecnologias que utilizo
 
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+## Ferramentas
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
-<br/>
-<br/>
+## GitHub Stats
 
-### 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladneijr&theme=tokyonight&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=8" alt="Linguagens mais utilizadas" />
+</p>
 
-<p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wladneijr/wladneijr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wladneijr/wladneijr/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação do jogo da cobrinha baseada nas contribuições" src="https://raw.githubusercontent.com/wladneijr/wladneijr/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladneijr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## Formação
 
+- **Sistemas de Informação** — UniFOA (Em andamento)
+- **Técnico em Informática** — Instituto Federal do Rio de Janeiro (IFRJ)
+
+---
+
+<p align="center">
+  <sub>Sinta-se à vontade para explorar meus repositórios e se conectar comigo!</sub>
 </p>
